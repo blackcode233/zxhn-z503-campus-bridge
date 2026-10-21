@@ -23,7 +23,7 @@
 请前往 [GitHub Releases](https://github.com/blackcode233/zxhn-z503-campus-bridge/releases/latest) 下载：
 
 ```text
-ZXHN-Z503-一键桥接-v7.zip
+ZXHN-Z503-Bridge-v7.zip
 ```
 
 ZIP 内已包含便携版 `node.exe` 和 Playwright 依赖，解压后即可运行，不需要单独安装 Node.js。
@@ -80,7 +80,7 @@ node .\zxhn_bridge_tool.js --router 192.168.10.1
 
 ## 发布包校验
 
-Release 中的 `ZXHN-Z503-一键桥接-v7.zip` 对应 SHA256：
+Release 中的 `ZXHN-Z503-Bridge-v7.zip` 对应 SHA256：
 
 ```text
 3CE1C815F19A8158C09C18FCBE7746FA44BB14271132E80071CD858BD42F4050
