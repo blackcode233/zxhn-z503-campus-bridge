@@ -1,0 +1,6 @@
+node.exe
+node_modules/
+zxhn_shots/
+*.zip
+*.log
+*.err
